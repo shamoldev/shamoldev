@@ -6,7 +6,7 @@
 🎧I love rap
 💸I love money
 
-✉️ 42.r3d@gmail.ru
+✉️ 42.r3d@mail.ru
 
 <!---
 shamoldev/shamoldev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
